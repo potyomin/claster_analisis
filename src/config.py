@@ -7,7 +7,8 @@ DATA_DIR = ROOT / 'data'
 FILE_AMESHOUSING = DATA_DIR / 'AmesHousing.txt'
 FILE_TOWN = DATA_DIR / 'town_1959_2.csv'
 FILE_BEVERAGE = DATA_DIR / 'beverage_r.csv'
-
+FILE_ASSESS = DATA_DIR / 'assess.dat'
+FILE_PROTEIN = DATA_DIR / 'Protein Consumption in Europe.csv'
 # список с кодировками
 ENCODINGS = [
     # универсальные
